@@ -1,0 +1,16 @@
+C:\workspace\GFT\Exercicio01\bin\Debug\net5.0\Exercicio01.exe
+C:\workspace\GFT\Exercicio01\bin\Debug\net5.0\Exercicio01.deps.json
+C:\workspace\GFT\Exercicio01\bin\Debug\net5.0\Exercicio01.runtimeconfig.json
+C:\workspace\GFT\Exercicio01\bin\Debug\net5.0\Exercicio01.runtimeconfig.dev.json
+C:\workspace\GFT\Exercicio01\bin\Debug\net5.0\Exercicio01.dll
+C:\workspace\GFT\Exercicio01\bin\Debug\net5.0\ref\Exercicio01.dll
+C:\workspace\GFT\Exercicio01\bin\Debug\net5.0\Exercicio01.pdb
+C:\workspace\GFT\Exercicio01\obj\Debug\net5.0\Exercicio01.csprojAssemblyReference.cache
+C:\workspace\GFT\Exercicio01\obj\Debug\net5.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\GFT\Exercicio01\obj\Debug\net5.0\Exercicio01.AssemblyInfoInputs.cache
+C:\workspace\GFT\Exercicio01\obj\Debug\net5.0\Exercicio01.AssemblyInfo.cs
+C:\workspace\GFT\Exercicio01\obj\Debug\net5.0\Exercicio01.csproj.CoreCompileInputs.cache
+C:\workspace\GFT\Exercicio01\obj\Debug\net5.0\Exercicio01.dll
+C:\workspace\GFT\Exercicio01\obj\Debug\net5.0\ref\Exercicio01.dll
+C:\workspace\GFT\Exercicio01\obj\Debug\net5.0\Exercicio01.pdb
+C:\workspace\GFT\Exercicio01\obj\Debug\net5.0\Exercicio01.genruntimeconfig.cache
